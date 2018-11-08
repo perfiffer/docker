@@ -288,3 +288,4 @@ and then it will be possible to attach a debugger from IDE to it.
 # Questions?
 
 Jump on irc.freenode.net and the #jenkins room. Ask!
+# docker
